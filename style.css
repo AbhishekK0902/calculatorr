@@ -1,0 +1,57 @@
+*{
+    margin: 0
+    padding=0;
+    box-sizing: border-box size: ;
+}
+.HO{
+    background-color: aliceblue;
+}
+h1{
+    text-align: center; 
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgba(10, 15, 84, 0.626);
+  
+}
+
+
+body{
+    width: 100%;
+    height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: rgb(68, 159, 159);
+}
+.calculator{
+    background-color: aquamarine;
+    border: 1px solid;
+    padding: 20px;
+    border-radius:200px solid;
+    background-color: rgb(180, 150, 114);
+    box-shadow: 10px sandybrown
+}
+.HI{
+    display: flex;
+    text-align: right;
+}
+input{
+    background-color: rgb(179, 179, 173);
+    width: 100%;
+    padding: 0px;
+    height: 50px;
+    border: 20%
+
+}
+button{
+    width: 60px;
+    height: 40px;
+    border-radius: 40px;
+    margin-top: 10px;
+    background-color: rgb(182, 204, 16);
+}
+#inputbox{
+    text-align: end;
+    font-size:larger ;
+    font-weight: 200px;
+    padding-right: 2px;
+}
